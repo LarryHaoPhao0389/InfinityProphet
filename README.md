@@ -36,9 +36,9 @@ I would like to pay respect to these paintings by preserving their original visu
 
 To achieve this, I would like to explore:
 
-- **Glowing light effects** that could respond to audio volume.
-- **Flowing brushstroke-like movement** driven by rhythm or frequency.
-- **Shimmering water reflections** that react to bass or lower frequencies.
-- **Atmospheric colour transitions** between calm and intense moments.
-- **Generative visual motion** that feels organic rather than mechanical.
-- **Environmental sound interaction** to strengthen immersion and emotional atmosphere.
+1. **Glowing light effects** that could respond to audio volume.
+2. **Flowing brushstroke-like movement** driven by rhythm or frequency.
+3. **Shimmering water reflections** that react to bass or lower frequencies.
+4. **Atmospheric colour transitions** between calm and intense moments.
+5. **Generative visual motion** that feels organic rather than mechanical.
+6. **Environmental sound interaction** to strengthen immersion and emotional atmosphere.
