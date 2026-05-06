@@ -1,5 +1,7 @@
 # IDEA9103 Creative Coding – Quiz 8
 
+*Welcome to this channel! This readme provides some inspiration of the concept for the project of some proposals on the artwork, including how it might be presented and why it is a good inspiration.*
+
 ## Part 1 – Imaging Technique Inspiration
 
 ### Visual Inspiration: Painterly Light, Reflection, and Atmospheric Motion
