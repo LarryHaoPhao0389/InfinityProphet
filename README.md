@@ -72,8 +72,8 @@ By doing this, the artwork could encourage younger generations and modern audien
 ## What is Audio Reactive Visualisation using p5.js?
 
 **Example implementation:**
-[Link Text](https://www.youtube.com/watch?v=p8nCYCfxOhw)
+[Creative Coding with Codecademy #8: Audio Visualizations with p5.sound.js by codecademy](https://www.youtube.com/watch?v=p8nCYCfxOhw)
 
 **Example codes:**
-[Link Text](https://editor.p5js.org/austinzhangmusic/collections/HBVLL4IQ0)
+[Audio Reactive Visuals by p5.js Web Editor](https://editor.p5js.org/austinzhangmusic/collections/HBVLL4IQ0)
 Although the example uses microphone input, the same audio-reactive principle could also be applied to a pre-recorded audio track. In both cases, sound data such as volume, rhythm, and frequency can be analysed and mapped to visual elements.
