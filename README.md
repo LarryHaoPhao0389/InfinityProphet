@@ -1,6 +1,6 @@
 # IDEA9103 Creative Coding – Quiz 8
 
-*Welcome to this channel! This README provides some inspiration and conceptual directions for the project, including different artwork proposals, how they might be presented, and why they are meaningful inspirations for the creative coding experience.*
+*Welcome! This README provides some inspiration and conceptual directions for the project, including different artwork proposals, how they might be presented, and why they are meaningful inspirations for the creative coding experience.*
 
 ## Part 1 – Imaging Technique Inspiration
 
