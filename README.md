@@ -76,4 +76,5 @@ By doing this, the artwork could encourage younger generations and modern audien
 
 **Example codes:**
 [Audio Reactive Visuals by p5.js Web Editor](https://editor.p5js.org/austinzhangmusic/collections/HBVLL4IQ0)
-Although the example uses microphone input, the same audio-reactive principle could also be applied to a pre-recorded audio track. In both cases, sound data such as volume, rhythm, and frequency can be analysed and mapped to visual elements.
+
+*Although the example uses microphone input, the same audio-reactive principle could also be applied to a pre-recorded audio track. In both cases, sound data such as volume, rhythm, and frequency can be analysed and mapped to visual elements.*
