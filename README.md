@@ -6,7 +6,7 @@
 
 ### Visual Inspiration: Painterly Light, Sound Reflection, and Atmospheric Motion
 
-Artworks are created with **meanings, emotions, and personal expression**. They act as visual representations of the artist’s feelings and voice through the use of **colour, shapes, movement, and composition**. For more than a century, audiences have viewed paintings through static images, often wondering what happened within the scene, why certain emotions were expressed, and how different viewers may interpret the artwork from their own perspective.
+Artworks are created with **meanings, emotions, and personal expression**. They act as visual representations of the artist’s feelings and voice through the use of **colour, shapes, movement, and composition**. For a very long time, audiences have viewed paintings through static images, often wondering what happened within the scene, why certain emotions were expressed, and how different viewers may interpret the artwork from their own perspective.
 
 For my imaging technique inspiration, I am interested in the **painterly use of light, colour reflection, movement, and atmosphere** within post-impressionist landscape paintings. I am particularly inspired by the idea of making the painting feel alive, as if moments inside the artwork are continuously moving within the frame. These artworks transform natural environments into **eternal, emotional, immersive, and atmospheric visual experiences**.
 
