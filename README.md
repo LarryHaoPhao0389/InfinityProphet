@@ -14,7 +14,9 @@ Rather than recreating a similar painting directly, I would like to borrow the v
 
 ---
 
-## Reference Image 1 – Starry Night
+## Reference Image 1 – Starry Night Over the Rhône
+
+###### *Vincent van Gogh, 1888*
 
 ![Vincent van Gogh – Starry Night](assets/Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 
@@ -22,7 +24,9 @@ Rather than recreating a similar painting directly, I would like to borrow the v
 
 ---
 
-## Reference Image 2 – Water Lilies and Japanese Bridge
+## Reference Image 2 – Bridge over a Pond of Water Lilies
+
+###### *Claude Monet, 1899*
 
 ![Claude Monet – Water Lilies and Japanese Bridge](assets/water-lilies-and-japanese-bridge-1897-1899-monet0.jpg)
 
